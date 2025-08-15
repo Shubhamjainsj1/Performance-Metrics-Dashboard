@@ -10,3 +10,5 @@ Simple pipeline: Generate sample data → Upload to BigQuery → Build Power BI 
 - Power BI Desktop (to build report), or Power BI Service to publish
 
 ---
+---
+---
